@@ -486,3 +486,40 @@ display: block;
   margin-top: 5px;
   font-size: 10px;
 }
+
+/* PLAN SECTION */
+.plan-container {
+  margin: 5px;
+  border: 1px solid #7B1FA2;
+  background-color: #bb82d436;
+  border-radius: 10px;
+}
+.plan-div {
+
+}
+.plan-icon {
+  width: 40%;
+  margin: 0 auto;
+  display: block;
+}
+.plan-header {
+  font-size: 24px;
+  color: #7B1FA2;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.plan-price {
+  text-align: center;
+  font-size: 22px;
+}
+
+.plan-feature {
+  color: #7B1FA2;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.plan-check {
+  color: #7B1FA2;
+}
